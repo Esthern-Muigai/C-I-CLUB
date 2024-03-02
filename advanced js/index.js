@@ -1,4 +1,6 @@
 let weather="sunny";
 
-if (weather.toLocaleLowerCase()=== "cold");
+if (weather.toLocaleLowerCase()=== "cold"){
+    console.log('wear somtheing light')
+}
 
